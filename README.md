@@ -5,7 +5,6 @@
 * [About](#about)
 * [Getting Started](#getting-started)
 * [Key Features](#key-faetures)
-* [Screenshots](#screenshots)
 * [Project Status](#project-status)
 
 ## About
@@ -43,7 +42,7 @@ This project demonstrates the implementation of an Authentication and Authorizat
 ## Backend Setup
 #### Clone the repository:
 ```
-git clone <repository_url>  
+git clone https://github.com/nick-r-o-s-e/Laravel-Auth-System-VueJS  
 ```
 #### Navigate to the backend folder:
 ```
@@ -86,7 +85,7 @@ The backend server will be available at http://127.0.0.1:8000.
 ## Frontend Setup
 #### Navigate to the frontend folder:
 ```
-cd front  
+cd frontend-vue  
 ```
 
 #### Install npm modules:
@@ -103,8 +102,6 @@ The frontend application will run on a local development server, usually availab
 #### Access the Application
  1. Open the frontend application in your browser at http://localhost:5173.
  2. The frontend will communicate with the backend API running at http://127.0.0.1:8000.
-
-## Screenshots
 
 ## Project Status
 Project is in progress
